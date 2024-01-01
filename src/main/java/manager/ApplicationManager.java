@@ -12,7 +12,6 @@ public class ApplicationManager {
         WebDriver wd = new ChromeDriver();
         wd.navigate().to("https://telranedu.web.app/");
 
-
     }
 
     public void stop() {
